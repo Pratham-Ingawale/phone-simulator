@@ -101,8 +101,6 @@ const IPhoneDevice = ({ url }) => {
               onError={handleIframeError}
               title="Website Preview"
               sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-presentation"
-              scrolling="yes"
-              style={{ overflow: 'auto' }}
             />
           </div>
 
