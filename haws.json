@@ -1,0 +1,1688 @@
+{
+  "kings": {
+    "globalColorTheme": {
+      "B1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "B2": {
+        "light": "#FDB927",
+        "dark": "#FDB927"
+      },
+      "B3": {
+        "light": "#383838",
+        "dark": "#383838"
+      },
+      "B4": {
+        "light": "#F8F8F8",
+        "dark": "#000000"
+      },
+      "B5": {
+        "light": "#F8F8F8",
+        "dark": "#000000"
+      },
+      "B6": {
+        "light": "#F8F8F8",
+        "dark": "#000000"
+      },
+      "B7": {
+        "light": "#F8F8F8",
+        "dark": "#000000"
+      },
+      "T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T2": {
+        "light": "#63686C",
+        "dark": "#DDDDDD"
+      },
+      "T3": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "T4": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T7": {
+        "light": "#63686C",
+        "dark": "#DDDDDD"
+      },
+      "T8": {
+        "light": "#63686C",
+        "dark": "#DDDDDD"
+      },
+      "T9": {
+        "light": "#F8F8F8",
+        "dark": "#000000"
+      },
+      "BG1": {
+        "light": "#F5F5F5",
+        "dark": "#07070C"
+      },
+      "BG2": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "BG3": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "BG4": {
+        "light": "#F5F5F5",
+        "dark": "#07070C"
+      },
+      "BG5": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "BG6": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "BG7": {
+        "light": "#C5C0C1",
+        "dark": "#2E0209"
+      },
+      "B-T1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "B-T2": {
+        "light": "#242424",
+        "dark": "#FFFFFF"
+      },
+      "B-T3": {
+        "light": "#C8102E",
+        "dark": "#FDB927"
+      },
+      "B-T4": {
+        "light": "#C8102E",
+        "dark": "#FFFFFF"
+      },
+      "B-T5": {
+        "light": "#242424",
+        "dark": "#FFFFFF"
+      },
+      "B-T6": {
+        "light": "#63686C",
+        "dark": "#9EA2A2"
+      },
+      "B-T7": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "B-T8": {
+        "light": "#242424",
+        "dark": "#FFFFFF"
+      },
+      "B-BG1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "B-BG2": {
+        "light": "#F6F8F8",
+        "dark": "#F6F8F8"
+      },
+      "B-BG3": {
+        "light": "#F5F5F5",
+        "dark": "#07070C"
+      },
+      "B-BG4": {
+        "light": "#242424",
+        "dark": "#242424"
+      },
+      "B-BG5": {
+        "light": "#808080",
+        "dark": "#808080"
+      },
+      "B-BG6": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "B-I1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "B-I2": {
+        "light": "#FFB71B",
+        "dark": "#FFB71B"
+      },
+      "B-I3": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "B-I4": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "B-I5": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "B-I6": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "B-I7": {
+        "light": "#808080",
+        "dark": "#808080"
+      },
+      "B-BG7": {
+        "light": "#242424",
+        "dark": "#242424"
+      },
+      "C1": {
+        "light": "#242424",
+        "dark": "#C8102E"
+      },
+      "C2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "C3": {
+        "light": "#C8102E",
+        "dark": "#FDB927"
+      },
+      "C4": {
+        "light": "#6F7478",
+        "dark": "#DDDDDD"
+      },
+      "C5": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "C6": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "C7": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "C8": {
+        "light": "#242424",
+        "dark": "#9EA2A2"
+      },
+      "H1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "H2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "H3": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "H4": {
+        "light": "#0A0A0A",
+        "dark": "#FFFFFF"
+      },
+      "H5": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "H6": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "H-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "H-T2": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "H-T3": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "H-BG1": {
+        "light": "#F5F5F5",
+        "dark": "#07070C"
+      },
+      "H-BG2": {
+        "light": "#A3A5A5",
+        "dark": "#A3A5A5"
+      },
+      "H-BG3": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "H-I1": {
+        "light": "#0A0A0A",
+        "dark": "#FFFFFF"
+      },
+      "H-I2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "H-I3": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "PB1": {
+        "light": "#DDDDDD",
+        "dark": "#C8102E"
+      },
+      "PB2": {
+        "light": "#383838",
+        "dark": "#9C1229"
+      },
+      "PB3": {
+        "light": "#DDDDDD",
+        "dark": "#242424"
+      },
+      "BR1": {
+        "light": "#CECECE",
+        "dark": "#383838"
+      },
+      "BR2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "BR3": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "OT1": {
+        "light": "#C8C8C8",
+        "dark": "#CED4DA"
+      },
+      "TC-T1": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "TC-T2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "TC-T3": {
+        "light": "#D9D9D9",
+        "dark": "#FFFFFF"
+      },
+      "TC-BG1": {
+        "light": "#FDB927",
+        "dark": "#FDB927"
+      },
+      "TC-BG2": {
+        "light": "#6E99D4",
+        "dark": "#5091CD"
+      },
+      "TC-BG3": {
+        "light": "#E03616",
+        "dark": "#E03616"
+      },
+      "TC-BG4": {
+        "light": "#000000",
+        "lightOpacity": "A6",
+        "dark": "#000000",
+        "darkOpacity": "A6"
+      },
+      "TC-BG5": {
+        "light": "#C8102E",
+        "dark": "#FDB927"
+      },
+      "TC-I1": {
+        "light": "#D9D9D9",
+        "dark": "#D9D9D9"
+      },
+      "TC-I2": {
+        "light": "#D9D9D9",
+        "dark": "#D9D9D9"
+      },
+      "CB1": {
+        "light": "#F5F5F5",
+        "dark": "#242424"
+      },
+      "CB2": {
+        "light": "#F5F5F5",
+        "dark": "#1B1B1B"
+      },
+      "CB3": {
+        "light": "#FFFFFF",
+        "dark": "#020202"
+      },
+      "CB4": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "BS1": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "BS2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "BS3": {
+        "light": "#303030",
+        "dark": "#303030"
+      },
+      "S1": {
+        "light": "#00AF54",
+        "dark": "#00AF54"
+      },
+      "S2": {
+        "light": "#E03616",
+        "dark": "#E03616"
+      },
+      "S3": {
+        "light": "#FFC905",
+        "dark": "#FFC905"
+      },
+      "S4": {
+        "light": "#F58426",
+        "dark": "#F58426"
+      },
+      "Thick": {
+        "light": "#FAFAFA",
+        "lightOpacity": "ED",
+        "dark": "#151515",
+        "darkOpacity": "D9"
+      },
+      "Regular": {
+        "light": "#EDEDED",
+        "lightOpacity": "CC",
+        "dark": "#181818",
+        "darkOpacity": "B2"
+      },
+      "Thin": {
+        "light": "#E3E3E3",
+        "lightOpacity": "A6",
+        "dark": "#111111",
+        "darkOpacity": "A6"
+      },
+      "Ultrathin": {
+        "light": "#E3E3E3",
+        "lightOpacity": "6E",
+        "dark": "#2A2A2A",
+        "darkOpacity": "73"
+      },
+      "SC1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "SC2": {
+        "light": "#C8C8C8",
+        "dark": "#C8C8C8"
+      },
+      "SC3": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "SC4": {
+        "light": "#C8C8C8",
+        "dark": "#C8C8C8"
+      },
+      "SC5": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SC6": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "SC7": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "BN-T1": {
+        "light": "#63686C",
+        "dark": "#FFFFFF"
+      },
+      "BN-T2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "BN-T3": {
+        "light": "#151416",
+        "dark": "#151416"
+      },
+      "BN-BG1": {
+        "light": "#F5F5F5",
+        "dark": "#242424"
+      },
+      "BN-BG2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "BN-BG3": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "BN-I1": {
+        "light": "#63686C",
+        "dark": "#FFFFFF"
+      },
+      "BN-I2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "BN-I3": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "BN-BR1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "BN-BR2": {
+        "light": "#FDB927",
+        "dark": "#FDB927"
+      },
+      "BN-BR3": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "SC-T1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SC-T2": {
+        "light": "#A3A5A5",
+        "dark": "#A3A5A5"
+      },
+      "SC-T3": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "SC-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "SC-BG2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "SC-BG3": {
+        "light": "#C8C8C8",
+        "dark": "#B8B8B8"
+      },
+      "SC-BG4": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SC-BG5": {
+        "light": "#C8102E",
+        "lightOpacity": "80",
+        "dark": "#C8102E",
+        "darkOpacity": "80"
+      },
+      "SC-BG6": {
+        "light": "#C8102E",
+        "lightOpacity": "4D",
+        "dark": "#C8102E",
+        "darkOpacity": "4D"
+      },
+      "SC-BG7": {
+        "light": "#B8B8B8",
+        "lightOpacity": "80",
+        "dark": "#C8C8C8",
+        "darkOpacity": "80"
+      },
+      "SC-BG8": {
+        "light": "#B8B8B8",
+        "lightOpacity": "4D",
+        "dark": "#C8C8C8",
+        "darkOpacity": "4D"
+      },
+      "SC-I1": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "SC-I2": {
+        "light": "#000000",
+        "dark": "#FFFFFF"
+      },
+      "CC-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "CC-T2": {
+        "light": "#6F7478",
+        "dark": "#A8A6A6"
+      },
+      "CC-T3": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "CC-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "CC-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "CC-BG1": {
+        "light": "#F5F5F5",
+        "dark": "#07070C"
+      },
+      "CC-BG2": {
+        "light": "#094C9A",
+        "dark": "#094C9A"
+      },
+      "CC-BG3": {
+        "light": "#1B1B1B",
+        "dark": "#1B1B1B"
+      },
+      "CC-I1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "CC-I2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "CC-I3": {
+        "light": "#C8102E",
+        "dark": "#FDB927"
+      },
+      "CC-I4": {
+        "light": "#FDB927",
+        "dark": "#FDB927"
+      },
+      "IC1": {
+        "light": "#5E5E5E",
+        "dark": "#FFFFFF"
+      },
+      "IC2": {
+        "light": "#D2D2D2",
+        "dark": "#313131"
+      },
+      "IC3": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "T-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T-T3": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "T-T5": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "T-BG1": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "T-BG2": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "T-BG3": {
+        "light": "#FFFFFF",
+        "dark": "#1B1B1B"
+      },
+      "T-BG4": {
+        "light": "#FFFFFF",
+        "dark": "#1B1B1B"
+      },
+      "T-BG5": {
+        "light": "#FFFFFF",
+        "dark": "#1B1B1B"
+      },
+      "T-BG6": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "T-BG7": {
+        "light": "#D9D9D9",
+        "dark": "#D9D9D9"
+      },
+      "T-BR1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "T-BR2": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "GC-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T3": {
+        "light": "#07070C",
+        "dark": "#DDDDDD"
+      },
+      "GC-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T7": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T8": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T9": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GC-T10": {
+        "light": "#FF6A00",
+        "dark": "#FF6A00"
+      },
+      "GC-T11": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T12": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T13": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T14": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T15": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-T16": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GC-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "GC-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "GC-BG3": {
+        "light": "#FFFFFF",
+        "dark": "#000000"
+      },
+      "U-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "U-T2": {
+        "light": "#63686C",
+        "dark": "#DDDDDD"
+      },
+      "U-T3": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "U-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "U-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "U-BG3": {
+        "light": "#F5F5F5",
+        "dark": "#000000"
+      },
+      "RL-T1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "RL-T2": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "RL-T3": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T7": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T8": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-T9": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "RL-BG1": {
+        "light": "#DDDDDD",
+        "dark": "#262626"
+      },
+      "RL-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#C8102E"
+      },
+      "RL-BG3": {
+        "light": "#FFFFFF",
+        "dark": "#000000"
+      },
+      "LC-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T3": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-T7": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "LC-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "LC-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "LC-BG3": {
+        "light": "#B2B2B2",
+        "dark": "#131313"
+      },
+      "LC-B-T1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "LC-B-T2": {
+        "light": "#242424",
+        "dark": "#C8102E"
+      },
+      "LC-B-BG1": {
+        "light": "#242424",
+        "dark": "#C8102E"
+      },
+      "LC-B-BG2": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "LC-PB1": {
+        "light": "#FDB927",
+        "dark": "#FDB927"
+      },
+      "LC-PB2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "LC-PB3": {
+        "light": "#07070C",
+        "dark": "#C8102E"
+      },
+      "LC-BR1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "LC-BR2": {
+        "light": "#3C434A",
+        "dark": "#3C434A"
+      },
+      "LC-BR3": {
+        "light": "#666F78",
+        "dark": "#535B62"
+      },
+      "SH-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T3": {
+        "light": "#07070C",
+        "dark": "#DDDDDD"
+      },
+      "SH-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T7": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T8": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T9": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "SH-T10": {
+        "light": "#FF6A00",
+        "dark": "#FF6A00"
+      },
+      "SH-T11": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T12": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T13": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T14": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T15": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-T16": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "SH-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "SH-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "SH-BG3": {
+        "light": "#FFFFFF",
+        "dark": "#000000"
+      },
+      "GD-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "GD-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "GD-BG3": {
+        "light": "#FFFFFF",
+        "dark": "#000000"
+      },
+      "GD-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T3": {
+        "light": "#07070C",
+        "dark": "#DDDDDD"
+      },
+      "GD-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T7": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T8": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T9": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "GD-T10": {
+        "light": "#FF6A00",
+        "dark": "#FF6A00"
+      },
+      "GD-T11": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T12": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T13": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T14": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T15": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "GD-T16": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "WC-T1": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T2": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T3": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T4": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T5": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T6": {
+        "light": "#07070C",
+        "dark": "#FFFFFF"
+      },
+      "WC-T7": {
+        "light": "#07070C"
+      },
+      "WC-BG1": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "WC-BG2": {
+        "light": "#DDDDDD",
+        "dark": "#1B1B1B"
+      },
+      "WC-BG3": {
+        "light": "#B2B2B2",
+        "dark": "#131313"
+      },
+      "WC-BR1": {
+        "light": "#C8102E",
+        "dark": "#C8102E"
+      },
+      "WC-BR2": {
+        "light": "#3C434A",
+        "dark": "#3C434A"
+      },
+      "WC-BR3": {
+        "light": "#666F78",
+        "dark": "#535B62"
+      },
+      "WC-B-BG1": {
+        "light": "#242424",
+        "dark": "#C8102E"
+      },
+      "WC-B-BG2": {
+        "light": "#FFFFFF",
+        "dark": "#242424"
+      },
+      "WC-B-T1": {
+        "light": "#FFFFFF",
+        "dark": "#FFFFFF"
+      },
+      "WC-B-T2": {
+        "light": "#242424",
+        "dark": "#C8102E"
+      }
+    },
+  "typography": {
+      "h1": {
+        "iLineHeight": "0.80",
+        "aLineHeight": "112.00",
+        "iLetterSpace": "-1.50",
+        "aLetterSpace": "-0.02",
+        "fontSize": "92",
+        "fontFamily": {
+          "android": "TitilliumWeb-Light.ttf",
+          "iOS": "TitilliumWeb-Light"
+        },
+        "fontWeight": "300",
+        "fontSrc": "TitilliumWeb-Light.ttf"
+      },
+      "h2": {
+        "iLineHeight": "0.79",
+        "aLineHeight": "72.00",
+        "iLetterSpace": "-0.50",
+        "aLetterSpace": "-0.01",
+        "fontSize": "60",
+        "fontFamily": {
+          "android": "TitilliumWeb-Light.ttf",
+          "iOS": "TitilliumWeb-Light"
+        },
+        "fontWeight": "300",
+        "fontSrc": "TitilliumWeb-Light.ttf"
+      },
+      "h3": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "60.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.01",
+        "fontSize": "48",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "h4": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "40.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.01",
+        "fontSize": "32",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "h5": {
+        "iLineHeight": "0.77",
+        "aLineHeight": "28.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.01",
+        "fontSize": "24",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "h6": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "28.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.01",
+        "fontSize": "28",
+        "fontFamily": {
+          "android": "TitilliumWeb-Black.ttf",
+          "iOS": "TitilliumWeb-Black"
+        },
+        "fontWeight": "900",
+        "fontSrc": "TitilliumWeb-Black.ttf"
+      },
+      "h7": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "24.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.01",
+        "fontSize": "20",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "s": {
+        "iLineHeight": "0.80",
+        "aLineHeight": "22.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.01",
+        "fontSize": "18",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "s1": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "20.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "16",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "s2": {
+        "iLineHeight": "0.75",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.02",
+        "fontSize": "14",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "p1": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "20.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.02",
+        "fontSize": "16",
+        "fontFamily": {
+          "android": "TitilliumWeb-Regular.ttf",
+          "iOS": "TitilliumWeb-Regular"
+        },
+        "fontWeight": "400",
+        "fontSrc": "TitilliumWeb-Regular.ttf"
+      },
+      "p2": {
+        "iLineHeight": "0.75",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.02",
+        "fontSize": "14",
+        "fontFamily": {
+          "android": "TitilliumWeb-Regular.ttf",
+          "iOS": "TitilliumWeb-Regular"
+        },
+        "fontWeight": "400",
+        "fontSrc": "TitilliumWeb-Regular.ttf"
+      },
+      "p3": {
+        "iLineHeight": "0.88",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.02",
+        "fontSize": "12",
+        "fontFamily": {
+          "android": "TitilliumWeb-Regular.ttf",
+          "iOS": "TitilliumWeb-Regular"
+        },
+        "fontWeight": "400",
+        "fontSrc": "TitilliumWeb-Regular.ttf"
+      },
+      "l1": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "20.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "16",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "l2": {
+        "iLineHeight": "0.75",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "14",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "l3": {
+        "iLineHeight": "0.88",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "12",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "l4": {
+        "iLineHeight": "0.88",
+        "aLineHeight": "16.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "12",
+        "fontFamily": {
+          "android": "TitilliumWeb-Regular.ttf",
+          "iOS": "TitilliumWeb-Regular"
+        },
+        "fontWeight": "400",
+        "fontSrc": "TitilliumWeb-Regular.ttf"
+      },
+      "l5": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "12.00",
+        "iLetterSpace": "-0.25",
+        "aLetterSpace": "-0.02",
+        "fontSize": "12",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "l6": {
+        "iLineHeight": "0.79",
+        "aLineHeight": "12.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.03",
+        "fontSize": "10",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "l7": {
+        "iLineHeight": "0.88",
+        "aLineHeight": "12.00",
+        "iLetterSpace": "0.25",
+        "aLetterSpace": "0.03",
+        "fontSize": "9",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "b1": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "18.00",
+        "iLetterSpace": "0.50",
+        "aLetterSpace": "0.03",
+        "fontSize": "18",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "b2": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "14.00",
+        "iLetterSpace": "0.00",
+        "aLetterSpace": "0.00",
+        "fontSize": "14",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "b3": {
+        "iLineHeight": "0.66",
+        "aLineHeight": "12.00",
+        "iLetterSpace": "0.00",
+        "aLetterSpace": "0.00",
+        "fontSize": "12",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "b4": {
+        "iLineHeight": "0.94",
+        "aLineHeight": "20.00",
+        "iLetterSpace": "0.00",
+        "aLetterSpace": "0.00",
+        "fontSize": "14",
+        "fontFamily": {
+          "android": "TitilliumWeb-Regular.ttf",
+          "iOS": "TitilliumWeb-Regular"
+        },
+        "fontWeight": "400",
+        "fontSrc": "TitilliumWeb-Regular.ttf"
+      },
+      "bn1": {
+        "iLineHeight": "0.80",
+        "aLineHeight": "22.00",
+        "iLetterSpace": "0.00",
+        "aLetterSpace": "0.00",
+        "fontSize": "18",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      },
+      "bn2": {
+        "iLineHeight": "0.82",
+        "aLineHeight": "40.00",
+        "iLetterSpace": "0.00",
+        "aLetterSpace": "0.00",
+        "fontSize": "32",
+        "fontFamily": {
+          "android": "TitilliumWeb-Bold.ttf",
+          "iOS": "TitilliumWeb-Bold"
+        },
+        "fontWeight": "700",
+        "fontSrc": "TitilliumWeb-Bold.ttf"
+      }
+    },
+  "gradients": {
+      "G1": {
+        "dark": [
+          {
+            "stops": "0.00",
+            "color": "#000000",
+            "opacity": "00"
+          },
+          {
+            "stops": "0.38",
+            "color": "#000000",
+            "opacity": "80"
+          },
+          {
+            "stops": "1.00",
+            "color": "#000000",
+            "opacity": "BF"
+          }
+        ],
+        "light": [
+          {
+            "stops": "0.00",
+            "color": "#101010",
+            "opacity": "00"
+          },
+          {
+            "stops": "0.26",
+            "color": "#0D0D0D",
+            "opacity": "33"
+          },
+          {
+            "stops": "1.00",
+            "color": "#000000",
+            "opacity": "80"
+          }
+        ]
+      },
+      "G2": {
+        "dark": [
+          {
+            "stops": "0.00",
+            "color": "#000000",
+            "opacity": "0D"
+          },
+          {
+            "stops": "1.00",
+            "color": "#000000",
+            "opacity": "FF"
+          }
+        ],
+        "light": [
+          {
+            "stops": "0.00",
+            "color": "#FFFFFF",
+            "opacity": "0D"
+          },
+          {
+            "stops": "1.00",
+            "color": "#FFFFFF",
+            "opacity": "FF"
+          }
+        ]
+      },
+      "G3": {
+        "dark": [
+          {
+            "stops": "0.00",
+            "color": "#07070C",
+            "opacity": "FF"
+          },
+          {
+            "stops": "1.00",
+            "color": "#2E0209",
+            "opacity": "FF"
+          }
+        ],
+        "light": [
+          {
+            "stops": "0.00",
+            "color": "#F5F5F5",
+            "opacity": "FF"
+          },
+          {
+            "stops": "1.00",
+            "color": "#C5C0C1",
+            "opacity": "FF"
+          }
+        ]
+      },
+      "G4": {
+        "dark": [
+          {
+            "stops": "0.00",
+            "color": "#131313",
+            "opacity": "FF"
+          },
+          {
+            "stops": "1.00",
+            "color": "#2E2D2D",
+            "opacity": "FF"
+          }
+        ],
+        "light": [
+          {
+            "stops": "0.00",
+            "color": "#EEEEEE",
+            "opacity": "FF"
+          },
+          {
+            "stops": "1.00",
+            "color": "#D2D2D2",
+            "opacity": "FF"
+          }
+        ]
+      },
+      "G5": {
+        "dark": [
+          {
+            "stops": "0.50",
+            "color": "#000000",
+            "opacity": "00"
+          },
+          {
+            "stops": "0.64",
+            "color": "#000000",
+            "opacity": "36"
+          },
+          {
+            "stops": "1.00",
+            "color": "#131313",
+            "opacity": "FF"
+          }
+        ],
+        "light": [
+          {
+            "stops": "0.52",
+            "color": "#555555",
+            "opacity": "00"
+          },
+          {
+            "stops": "0.71",
+            "color": "#181818",
+            "opacity": "A1"
+          },
+          {
+            "stops": "1.00",
+            "color": "#000000",
+            "opacity": "FF"
+          }
+        ]
+      }
+    },
+  "spacing": {
+    "Margin": {
+      "M1": "30",
+      "M2": "28",
+      "M3": "26",
+      "M4": "24",
+      "M5": "20",
+      "M6": "16",
+      "M7": "8",
+      "M8": "4",
+      "M9": "2",
+      "M10": "12",
+      "M11": "6",
+      "M12": "10",
+      "M13": "40",
+      "M14": "32"
+    },
+    "Padding": {
+      "P1": "30",
+      "P2": "28",
+      "P3": "26",
+      "P4": "24",
+      "P5": "20",
+      "P6": "16",
+      "P7": "8",
+      "P8": "4",
+      "P9": "2",
+      "P10": "12",
+      "P11": "6",
+      "P12": "10",
+      "P13": "40",
+      "P14": "32"
+    },
+    "radius": {
+      "R1": "20",
+      "R2": "16",
+      "R3": "10",
+      "R4": "8",
+      "R5": "4",
+      "R6": "80"
+    }
+  },
+  "elevation": {
+    "E1": {
+      "light": "#000000",
+      "lightOpacity": "26",
+      "dark": "#000000",
+      "darkOpacity": "73",
+      "x": "0",
+      "y": "2",
+      "blur": "4"
+    },
+    "E2": {
+      "light": "#000000",
+      "lightOpacity": "33",
+      "dark": "#000000",
+      "darkOpacity": "80",
+      "x": "0",
+      "y": "4",
+      "blur": "8"
+    },
+    "E3": {
+      "light": "#000000",
+      "lightOpacity": "4D",
+      "dark": "#000000",
+      "darkOpacity": "CC",
+      "x": "0",
+      "y": "4",
+      "blur": "16"
+    },
+    "E4": {
+      "light": "#000000",
+      "lightOpacity": "4D",
+      "dark": "#000000",
+      "darkOpacity": "F2",
+      "x": "0",
+      "y": "5",
+      "blur": "24"
+    }
+  }
+
+  }
+}

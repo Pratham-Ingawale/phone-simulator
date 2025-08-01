@@ -100,7 +100,13 @@ const IPhoneDevice = ({ url }) => {
               onLoad={handleIframeLoad}
               onError={handleIframeError}
               title="Website Preview"
-              sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-presentation"
+              sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-presentation allow-pointer-lock allow-orientation-lock"
+              allowFullScreen
+              style={{ 
+                pointerEvents: 'auto',
+                touchAction: 'auto',
+                overflow: 'auto'
+              }}
             />
           </div>
 
