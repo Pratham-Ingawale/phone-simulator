@@ -13,10 +13,11 @@ const InspectorPanel = ({ data }) => {
     <div className="inspector-panel">
       <h4>{data.tag}{data.id}{data.classes}</h4>
       <div className="style-grid">
-        <div className="style-item">
+      <div className="style-item">
           <span className="style-label">Name</span>
           <span className="style-value">{data.id }</span>
         </div>
+
         <div className="style-item">
           <span className="style-label">Color</span>
           <span className="style-value">{data.color}</span>

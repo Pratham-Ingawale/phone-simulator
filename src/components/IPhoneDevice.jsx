@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import './IPhoneDevice.css'
 
-const IPhoneDevice = ({ url }) => {
+const IPhoneDevice = ({ url, srcDoc, reloadKey }) => {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
   const [currentTime, setCurrentTime] = useState('')
@@ -71,9 +71,9 @@ const IPhoneDevice = ({ url }) => {
           </div>
 
           {/* Address Bar */}
-          <div className="address-bar">
+          {/* <div className="address-bar">
             <div className="url-text">{getDisplayUrl(url)}</div>
-          </div>
+          </div> */}
 
           {/* Website Container */}
           <div className="website-container">
@@ -95,18 +95,14 @@ const IPhoneDevice = ({ url }) => {
             )}
 
             <iframe
+              key={reloadKey}
               src={url}
+              srcDoc={srcDoc}
               className="website-frame"
               onLoad={handleIframeLoad}
               onError={handleIframeError}
               title="Website Preview"
-              sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-presentation allow-pointer-lock allow-orientation-lock"
-              allowFullScreen
-              style={{ 
-                pointerEvents: 'auto',
-                touchAction: 'auto',
-                overflow: 'auto'
-              }}
+              sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-presentation"
             />
           </div>
 

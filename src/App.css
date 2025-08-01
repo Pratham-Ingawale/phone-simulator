@@ -39,19 +39,19 @@
 
 .main-content {
   display: flex;
-  align-items: center;
   justify-content: center;
-  gap: 40px;
-  flex: 1;
-  padding: 0 20px;
-  max-width: 1400px;
-  margin: 0 auto;
-  width: 100%;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 20px;
+  flex-wrap: wrap;
 }
 
 .controls-section {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
   flex: 0 0 350px;
-  max-width: 350px;
+  max-width: 380px;
 }
 
 .url-controls {
@@ -153,8 +153,32 @@
   transform: translateY(0);
 }
 
+.inspector-toggle {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.inspector-toggle label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.inspector-toggle input[type="checkbox"] {
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
 .device-section {
-  flex: 1;
+  flex-shrink: 0;
   display: flex;
   justify-content: center;
   align-items: center;
